@@ -1,0 +1,201 @@
+Date,Product,Category,Quantity,Revenue,Region,Payment_Method
+2024-05-09,Laptop Sleeve,Electronics,1,98.84,South,Credit Card
+2024-04-26,Silicone Stretch Lids,Kitchen,9,1750.13,West,Cash
+2024-02-11,Tennis Racket,Sports,8,1460.09,East,UPI
+2024-06-07,Tennis Racket,Sports,19,5502.12,South,Credit Card
+2024-05-18,Laptop Sleeve,Electronics,3,750.29,East,Credit Card
+2024-01-14,Yoga Mat,Fitness,11,2255.04,South,Net Banking
+2024-04-15,Tennis Racket,Sports,18,792.76,North,Cash
+2024-02-26,Coffee Maker,Appliances,9,1172.81,North,UPI
+2024-05-13,Silicone Stretch Lids,Kitchen,11,2183.53,West,Cash
+2024-02-10,Running Shoes,Footwear,5,122.62,East,UPI
+2024-06-23,Laptop Sleeve,Electronics,16,2506.75,South,UPI
+2024-01-14,Silicone Stretch Lids,Kitchen,16,2498.63,South,UPI
+2024-01-01,Yoga Mat,Fitness,2,194.43,South,Credit Card
+2024-06-08,Tortilla Chips,Snacks,19,4046.46,South,UPI
+2024-04-19,Wireless Mouse,Electronics,12,937.2,East,UPI
+2024-01-10,Silicone Stretch Lids,Kitchen,7,1990.74,West,Net Banking
+2024-05-15,Smartphone Stand,Accessories,20,1607.88,South,Cash
+2024-04-02,Wireless Mouse,Electronics,3,848.82,East,Credit Card
+2024-01-21,Coffee Maker,Appliances,19,4581.25,West,UPI
+2024-02-21,Desk Lamp,Home Decor,20,5514.86,North,Cash
+2024-05-02,Yoga Mat,Fitness,5,1144.03,West,Net Banking
+2024-05-03,Laptop Sleeve,Electronics,9,1682.85,North,Credit Card
+2024-05-02,Tennis Racket,Sports,20,1028.67,East,Net Banking
+2024-01-31,Wireless Mouse,Electronics,18,1430.04,North,UPI
+2024-04-11,Silicone Stretch Lids,Kitchen,2,536.5,West,UPI
+2024-01-03,Tennis Racket,Sports,18,1101.53,North,Net Banking
+2024-03-07,Running Shoes,Footwear,15,1388.88,West,UPI
+2024-05-31,Wireless Mouse,Electronics,12,1275.03,North,Cash
+2024-02-04,Tortilla Chips,Snacks,3,73.75,North,UPI
+2024-05-17,Desk Lamp,Home Decor,7,1796.0,West,Cash
+2024-03-04,Running Shoes,Footwear,6,356.3,East,UPI
+2024-01-08,Yoga Mat,Fitness,14,3820.24,West,UPI
+2024-05-19,Tortilla Chips,Snacks,5,469.69,East,Net Banking
+2024-04-06,Running Shoes,Footwear,4,739.36,South,Net Banking
+2024-06-21,Yoga Mat,Fitness,1,229.06,North,UPI
+2024-03-21,Tortilla Chips,Snacks,5,424.33,West,Credit Card
+2024-04-27,Smartphone Stand,Accessories,12,1796.09,South,UPI
+2024-06-25,Desk Lamp,Home Decor,1,226.84,East,Cash
+2024-04-28,Desk Lamp,Home Decor,7,539.56,North,UPI
+2024-03-26,Wireless Mouse,Electronics,2,370.68,West,Cash
+2024-01-15,Running Shoes,Footwear,4,863.66,East,Cash
+2024-04-14,Tennis Racket,Sports,2,384.79,West,Credit Card
+2024-01-22,Smartphone Stand,Accessories,16,2241.07,East,UPI
+2024-01-30,Wireless Mouse,Electronics,6,1513.07,South,Credit Card
+2024-05-07,Yoga Mat,Fitness,20,4359.53,North,UPI
+2024-03-12,Wireless Mouse,Electronics,17,4390.36,East,Cash
+2024-02-12,Tennis Racket,Sports,2,53.91,North,Cash
+2024-04-27,Silicone Stretch Lids,Kitchen,19,5197.21,East,Cash
+2024-01-10,Running Shoes,Footwear,6,588.8,North,Cash
+2024-04-03,Smartphone Stand,Accessories,19,4845.36,East,Net Banking
+2024-02-28,Yoga Mat,Fitness,15,4044.0,East,UPI
+2024-03-26,Yoga Mat,Fitness,3,891.78,East,Net Banking
+2024-06-08,Silicone Stretch Lids,Kitchen,16,1388.47,East,Net Banking
+2024-02-02,Running Shoes,Footwear,10,1616.95,North,Cash
+2024-05-18,Smartphone Stand,Accessories,19,3979.12,East,Net Banking
+2024-05-11,Desk Lamp,Home Decor,8,523.36,South,UPI
+2024-06-23,Laptop Sleeve,Electronics,16,3074.57,East,UPI
+2024-04-07,Laptop Sleeve,Electronics,13,3423.41,West,Net Banking
+2024-02-04,Smartphone Stand,Accessories,8,2295.88,South,Cash
+2024-04-02,Tennis Racket,Sports,12,2034.89,West,Net Banking
+2024-06-26,Desk Lamp,Home Decor,19,412.93,East,Cash
+2024-03-06,Coffee Maker,Appliances,6,559.73,East,Net Banking
+2024-06-22,Silicone Stretch Lids,Kitchen,4,132.15,South,Credit Card
+2024-01-27,Running Shoes,Footwear,16,4116.92,North,UPI
+2024-01-17,Desk Lamp,Home Decor,2,65.63,West,Cash
+2024-01-18,Smartphone Stand,Accessories,8,2148.21,East,Cash
+2024-06-22,Coffee Maker,Appliances,20,555.4,South,Cash
+2024-02-04,Yoga Mat,Fitness,9,1889.94,North,Cash
+2024-02-20,Coffee Maker,Appliances,4,454.93,South,Net Banking
+2024-06-28,Smartphone Stand,Accessories,2,130.45,East,Cash
+2024-01-05,Smartphone Stand,Accessories,8,1865.14,South,Cash
+2024-04-20,Coffee Maker,Appliances,14,293.18,East,Credit Card
+2024-04-21,Coffee Maker,Appliances,8,979.43,East,Net Banking
+2024-05-04,Smartphone Stand,Accessories,10,2764.62,West,Cash
+2024-02-13,Running Shoes,Footwear,11,2433.13,East,UPI
+2024-06-01,Tennis Racket,Sports,3,836.73,East,Credit Card
+2024-02-27,Laptop Sleeve,Electronics,3,353.03,North,Cash
+2024-06-14,Wireless Mouse,Electronics,9,1573.57,South,UPI
+2024-01-13,Laptop Sleeve,Electronics,5,1273.47,South,Credit Card
+2024-02-16,Wireless Mouse,Electronics,4,122.86,West,Net Banking
+2024-03-22,Desk Lamp,Home Decor,3,698.79,East,Net Banking
+2024-06-27,Yoga Mat,Fitness,18,1628.97,South,Cash
+2024-03-06,Running Shoes,Footwear,10,1461.62,South,UPI
+2024-01-06,Running Shoes,Footwear,2,147.31,North,Credit Card
+2024-05-06,Wireless Mouse,Electronics,14,1091.3,East,Cash
+2024-04-06,Tennis Racket,Sports,18,5221.96,North,Cash
+2024-03-10,Wireless Mouse,Electronics,17,3265.19,East,Credit Card
+2024-05-30,Desk Lamp,Home Decor,18,1545.61,West,Net Banking
+2024-04-09,Wireless Mouse,Electronics,8,417.13,South,Credit Card
+2024-05-26,Silicone Stretch Lids,Kitchen,14,1650.08,South,UPI
+2024-02-22,Silicone Stretch Lids,Kitchen,6,760.89,East,UPI
+2024-05-31,Running Shoes,Footwear,8,1460.39,West,UPI
+2024-04-14,Silicone Stretch Lids,Kitchen,20,3544.88,North,Cash
+2024-06-23,Smartphone Stand,Accessories,19,1345.59,West,UPI
+2024-03-01,Smartphone Stand,Accessories,6,357.63,North,Credit Card
+2024-05-30,Laptop Sleeve,Electronics,12,3478.62,West,Net Banking
+2024-02-10,Coffee Maker,Appliances,14,4022.69,North,UPI
+2024-03-19,Silicone Stretch Lids,Kitchen,7,883.33,East,Net Banking
+2024-02-01,Desk Lamp,Home Decor,6,628.08,North,Cash
+2024-02-01,Desk Lamp,Home Decor,15,339.03,West,Cash
+2024-02-23,Tennis Racket,Sports,4,706.11,North,Cash
+2024-03-12,Laptop Sleeve,Electronics,17,1711.32,South,UPI
+2024-02-13,Silicone Stretch Lids,Kitchen,12,1094.56,East,Net Banking
+2024-02-16,Smartphone Stand,Accessories,13,702.65,East,Credit Card
+2024-01-06,Yoga Mat,Fitness,14,2128.78,East,Net Banking
+2024-06-28,Tortilla Chips,Snacks,7,686.39,West,Cash
+2024-02-14,Yoga Mat,Fitness,2,230.09,North,Net Banking
+2024-04-10,Smartphone Stand,Accessories,20,5620.3,North,Cash
+2024-04-10,Running Shoes,Footwear,14,974.11,East,Credit Card
+2024-05-24,Yoga Mat,Fitness,12,444.93,East,Net Banking
+2024-01-23,Silicone Stretch Lids,Kitchen,4,930.32,West,Net Banking
+2024-04-22,Running Shoes,Footwear,13,826.6,East,Credit Card
+2024-05-12,Laptop Sleeve,Electronics,10,624.21,West,Cash
+2024-03-11,Coffee Maker,Appliances,19,5003.15,South,UPI
+2024-02-26,Running Shoes,Footwear,1,104.8,South,UPI
+2024-03-30,Desk Lamp,Home Decor,14,3626.91,South,UPI
+2024-06-23,Running Shoes,Footwear,12,3211.21,West,UPI
+2024-01-16,Desk Lamp,Home Decor,7,199.37,South,UPI
+2024-01-21,Smartphone Stand,Accessories,5,1228.09,East,UPI
+2024-01-28,Yoga Mat,Fitness,12,2166.12,West,UPI
+2024-01-27,Desk Lamp,Home Decor,17,1205.35,West,Cash
+2024-02-19,Yoga Mat,Fitness,1,241.7,East,Cash
+2024-05-19,Laptop Sleeve,Electronics,10,878.53,East,Net Banking
+2024-06-13,Smartphone Stand,Accessories,19,2848.18,North,Cash
+2024-06-09,Laptop Sleeve,Electronics,7,1973.53,West,Cash
+2024-05-04,Silicone Stretch Lids,Kitchen,6,163.73,North,Net Banking
+2024-06-27,Desk Lamp,Home Decor,13,777.89,South,UPI
+2024-02-05,Tennis Racket,Sports,7,1556.33,South,Cash
+2024-02-13,Smartphone Stand,Accessories,19,5017.45,West,Credit Card
+2024-03-29,Coffee Maker,Appliances,3,600.96,East,Cash
+2024-03-11,Tortilla Chips,Snacks,14,1187.66,East,Net Banking
+2024-02-10,Desk Lamp,Home Decor,4,730.15,East,UPI
+2024-04-23,Wireless Mouse,Electronics,16,1606.96,East,Net Banking
+2024-06-25,Silicone Stretch Lids,Kitchen,17,3481.32,West,Net Banking
+2024-06-12,Wireless Mouse,Electronics,20,2403.92,South,Credit Card
+2024-05-16,Tortilla Chips,Snacks,13,408.07,North,UPI
+2024-05-16,Wireless Mouse,Electronics,15,378.03,West,Net Banking
+2024-05-13,Tortilla Chips,Snacks,12,851.06,South,Net Banking
+2024-01-01,Silicone Stretch Lids,Kitchen,14,3632.58,North,UPI
+2024-03-26,Wireless Mouse,Electronics,14,1188.68,West,UPI
+2024-01-26,Silicone Stretch Lids,Kitchen,6,349.34,South,Net Banking
+2024-01-30,Running Shoes,Footwear,14,862.15,South,UPI
+2024-04-13,Tennis Racket,Sports,17,1234.96,South,Credit Card
+2024-05-15,Yoga Mat,Fitness,6,326.22,North,Credit Card
+2024-03-25,Wireless Mouse,Electronics,7,1273.53,South,Net Banking
+2024-01-02,Running Shoes,Footwear,5,772.85,North,UPI
+2024-03-14,Desk Lamp,Home Decor,6,983.5,East,Net Banking
+2024-06-29,Tortilla Chips,Snacks,6,1238.92,North,UPI
+2024-03-20,Wireless Mouse,Electronics,17,3363.15,East,Cash
+2024-05-01,Running Shoes,Footwear,4,318.64,East,Net Banking
+2024-06-02,Laptop Sleeve,Electronics,7,386.17,West,UPI
+2024-01-24,Running Shoes,Footwear,3,388.91,East,Cash
+2024-05-21,Yoga Mat,Fitness,2,198.66,North,Credit Card
+2024-06-09,Tortilla Chips,Snacks,8,640.5,West,Net Banking
+2024-02-26,Laptop Sleeve,Electronics,16,2125.73,West,UPI
+2024-06-15,Desk Lamp,Home Decor,15,2030.38,North,UPI
+2024-01-03,Laptop Sleeve,Electronics,14,1014.88,North,Cash
+2024-02-19,Smartphone Stand,Accessories,13,1240.1,North,Cash
+2024-06-20,Desk Lamp,Home Decor,17,5036.56,West,Credit Card
+2024-01-13,Smartphone Stand,Accessories,2,93.54,West,Net Banking
+2024-05-02,Desk Lamp,Home Decor,19,3344.17,North,UPI
+2024-05-06,Running Shoes,Footwear,19,1268.81,North,Credit Card
+2024-03-14,Desk Lamp,Home Decor,10,1524.24,North,Net Banking
+2024-05-02,Desk Lamp,Home Decor,6,701.9,South,Net Banking
+2024-03-31,Yoga Mat,Fitness,13,2957.25,North,Cash
+2024-01-13,Yoga Mat,Fitness,5,902.62,East,Cash
+2024-03-07,Tortilla Chips,Snacks,5,1124.69,West,Cash
+2024-02-10,Yoga Mat,Fitness,9,902.49,South,UPI
+2024-04-04,Tortilla Chips,Snacks,10,2603.47,North,Credit Card
+2024-04-07,Laptop Sleeve,Electronics,15,4184.9,South,Credit Card
+2024-06-29,Laptop Sleeve,Electronics,9,1464.5,North,UPI
+2024-03-13,Running Shoes,Footwear,8,2073.63,East,Cash
+2024-03-25,Smartphone Stand,Accessories,11,479.13,North,UPI
+2024-05-01,Laptop Sleeve,Electronics,12,1920.1,East,UPI
+2024-03-14,Laptop Sleeve,Electronics,11,2685.87,North,Credit Card
+2024-04-25,Smartphone Stand,Accessories,11,1247.92,North,Cash
+2024-01-26,Laptop Sleeve,Electronics,14,1376.31,North,Cash
+2024-06-29,Coffee Maker,Appliances,9,1503.64,South,Net Banking
+2024-01-31,Smartphone Stand,Accessories,7,1612.1,East,Cash
+2024-03-25,Running Shoes,Footwear,18,2958.92,West,Net Banking
+2024-04-10,Yoga Mat,Fitness,7,287.15,South,Credit Card
+2024-04-02,Coffee Maker,Appliances,5,1019.58,West,UPI
+2024-02-04,Desk Lamp,Home Decor,20,3287.75,East,UPI
+2024-02-29,Coffee Maker,Appliances,1,204.17,South,Net Banking
+2024-06-18,Laptop Sleeve,Electronics,11,3079.43,East,Credit Card
+2024-01-14,Silicone Stretch Lids,Kitchen,16,3295.16,West,Cash
+2024-04-16,Laptop Sleeve,Electronics,19,5494.84,East,Net Banking
+2024-04-04,Running Shoes,Footwear,1,48.35,South,Credit Card
+2024-06-19,Coffee Maker,Appliances,7,1184.76,South,UPI
+2024-05-08,Tortilla Chips,Snacks,18,382.7,East,UPI
+2024-05-17,Tortilla Chips,Snacks,3,325.04,East,UPI
+2024-01-30,Tennis Racket,Sports,5,480.58,West,Net Banking
+2024-02-04,Tortilla Chips,Snacks,20,1394.82,South,Credit Card
+2024-01-23,Wireless Mouse,Electronics,12,2864.04,East,UPI
+2024-02-10,Laptop Sleeve,Electronics,12,1527.65,East,Cash
+2024-01-23,Wireless Mouse,Electronics,16,4042.05,East,Net Banking
+2024-04-27,Coffee Maker,Appliances,8,1876.74,West,UPI
+2024-03-08,Tortilla Chips,Snacks,5,1196.8,South,Credit Card
+2024-04-22,Desk Lamp,Home Decor,16,969.33,North,UPI
+2024-04-13,Tennis Racket,Sports,8,475.03,East,Net Banking

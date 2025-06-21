@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  airflow-webserver:
+    image: apache/airflow:2.7.2
+    container_name: airflow_webserver_sales
+    restart: always
+    depends_on:
+      - airflow-scheduler
+    ports:
+      - "8090:8080"
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=sqlite:////opt/airflow/airflow.db
+      - AIRFLOW__CORE__FERNET_KEY=some_random_key
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - airflow_db_volume:/opt/airflow
+    command: webserver
+
+  airflow-scheduler:
+    image: apache/airflow:2.7.2
+    container_name: airflow_scheduler_sales
+    restart: always
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - airflow_db_volume:/opt/airflow
+    command: scheduler
+
+  airflow-init:
+    image: apache/airflow:2.7.2
+    container_name: airflow_init_sales
+    entrypoint: /bin/bash
+    command: -c "airflow db init"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - airflow_db_volume:/opt/airflow
+
+volumes:
+  airflow_db_volume:
