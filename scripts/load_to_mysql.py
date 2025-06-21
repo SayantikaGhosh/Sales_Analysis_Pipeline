@@ -6,23 +6,23 @@ from mysql.connector import Error
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'password',  # 🔒 Replace with your actual password
+    'password': 'password',  
     'database': 'sales_db'
 }
 
 CSV_PATH = 'dags/data/sales_data.csv'
 
 try:
-    # ✅ Read and preprocess CSV
+    #  Read and preprocess CSV
     df = pd.read_csv(CSV_PATH)
     df['Date'] = pd.to_datetime(df['Date'], format='%Y-%m-%d')
     df['Date'] = df['Date'].dt.strftime('%Y-%m-%d')  # MySQL-friendly
 
-    # ✅ Connect to MySQL
+    #  Connect to MySQL
     connection = mysql.connector.connect(**DB_CONFIG)
     cursor = connection.cursor()
 
-    # ✅ Create table if not exists
+    #  Create table if not exists
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS sales_data (
             id INT AUTO_INCREMENT PRIMARY KEY,
@@ -36,7 +36,7 @@ try:
         );
     """)
 
-    # ✅ Insert data row by row
+    #  Insert data row by row
     for _, row in df.iterrows():
         cursor.execute("""
             INSERT INTO sales_data (date, product, category, quantity, revenue, region, payment_method)
@@ -44,12 +44,12 @@ try:
         """, tuple(row))
 
     connection.commit()
-    print("✅ Data loaded successfully into MySQL!")
+    print(" Data loaded successfully into MySQL!")
 
 except Error as e:
-    print(f"❌ MySQL Error: {e}")
+    print(f" MySQL Error: {e}")
 except Exception as ex:
-    print(f"⚠️ Error: {ex}")
+    print(f" Error: {ex}")
 finally:
     if connection.is_connected():
         cursor.close()
