@@ -6,7 +6,7 @@ from mysql.connector import Error
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'admin1234',  # 🔒 Replace with your actual password
+    'password': 'password',  # 🔒 Replace with your actual password
     'database': 'sales_db'
 }
 
